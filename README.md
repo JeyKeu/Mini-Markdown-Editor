@@ -1,5 +1,6 @@
-Minimalist Online Markdown Editor
-=================================
+Mini Markdown Editor
+===
 
-This is the source for the **simplest** and **slickest** online Markdown editor, available online here: http://markdown.pioul.fr  
-Just write Markdown and see what it looks like as you type. And convert it to HTML in one click.
+This is the fork of  the **simplest** and **slickest** online Markdown editor, available [online](http://markdown.pioul.fr) by the French developer [Philippe Masset](http://pioul.fr/)
+The original project can be found [here](https://github.com/pioul/MinimalistOnlineMarkdownEditor).
+Full credit goes to the original developer.
